@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Secrets and local env files
+.env
+.env.*
+!.env.example
+
+# Generated archives
+*.zip
+*.tar.gz
+
