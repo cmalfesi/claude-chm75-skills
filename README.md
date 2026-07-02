@@ -2,7 +2,7 @@
 
 This repository contains a reusable Claude Skill profile designed to help Claude work as a senior strategic, technical, product, GTM, and execution coworker for Cristian across any project, offer, client opportunity, proposal, technical architecture, or delivery plan.
 
-The repository is intentionally project-agnostic. It should not assume VaultOS, StratEx, Protofire, blockchain, DeFi, or RWA unless a project-specific skill adds that context.
+The repository is intentionally project-agnostic. 
 
 ## Repository Structure
 
